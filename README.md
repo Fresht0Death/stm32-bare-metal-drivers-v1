@@ -129,7 +129,6 @@ If measuring a signal above `VREF+`, use a correctly designed voltage divider or
 
 ## Roadmap
 
-- Add a reproducible command-line build
 - Add compiler checks through GitHub Actions
 - Derive peripheral clocks dynamically
 - Add timeout-aware USART and ADC operations
